@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Text Calculator</string>
+    <string name="input_hint">Enter text here</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="empty_input_message">Please enter the text</string>
+    <string name="result_format">Result: %d</string>
+    <string name="option_words">Words</string>
+    <string name="option_characters">Characters</string>
+    <string name="init_error">Error initializing app: %s</string>
+    <string name="calc_error">Error calculating result: %s</string>
+</resources>
